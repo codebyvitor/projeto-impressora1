@@ -40,7 +40,7 @@ menu a {
     background-color: darkmagenta;
     color: white;
     text-align: center;
-    border-top: 2px solid black;
+    border-top: 2px solid darkmagenta;
 }
 menu a:hover {
     background-color: rgb(196, 0, 196);
